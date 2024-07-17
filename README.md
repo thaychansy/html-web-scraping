@@ -1,2 +1,2 @@
 # html-web-scraping-challenge
-Full web-scraping and data analysis project extracting information via automated browsing with Splinter and HTML parsing with Beautiful Soup. Work In-Progress. ECD: 07/22/2024.
+Full web-scraping and data analysis project extracting information via automated browsing with Splinter and HTML parsing with Beautiful Soup. ECD: 07/22/2024.
