@@ -81,13 +81,15 @@ terrestrial_date: the date on Earth
     - Find the average minimum daily temperature for all of the months.
     - Plot the results as a bar chart.
       
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/f1fd0db0-7025-438c-bc4f-e62122a1244d">
+![image](https://github.com/user-attachments/assets/a1f669ea-3045-44ab-b9e1-c3e5aa57f420)
+
 
 - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
     - Find the average daily atmospheric pressure of all the months.
     - Plot the results as a bar chart.
       
-<img width="281" alt="image" src="https://github.com/user-attachments/assets/395e8c60-9387-47f6-9bb0-c761b006a953">
+![image](https://github.com/user-attachments/assets/8206df01-2c55-4bfc-a263-6b9c7b15a670)
+
 
 - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
     - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
