@@ -80,9 +80,15 @@ terrestrial_date: the date on Earth
 - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
     - Find the average minimum daily temperature for all of the months.
     - Plot the results as a bar chart.
+      
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/f1fd0db0-7025-438c-bc4f-e62122a1244d">
+
 - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
     - Find the average daily atmospheric pressure of all the months.
     - Plot the results as a bar chart.
+      
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/395e8c60-9387-47f6-9bb0-c761b006a953">
+
 - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
     - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
     - Visually estimate the result by plotting the daily minimum temperature.
