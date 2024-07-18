@@ -36,10 +36,12 @@ This new assignment consists of two technical products. You will submit the foll
 Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipynb`. You will work in this code as you follow the steps below to scrape the Mars News website.
 
 1. Use automated browsing to visit the `Mars news site`. Inspect the page to identify which elements to scrape.
+   
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/4ebe071a-5b3f-4859-9efa-1c03504f9651">
 
-2. Create a `Beautiful Soup` object and use it to extract text elements from the website.
+3. Create a `Beautiful Soup` object and use it to extract text elements from the website.
 
-3. Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
+4. Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
 
 - Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: `title` and `preview`. An example is the following:
   
