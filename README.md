@@ -51,6 +51,8 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 
 - Print the list in your notebook.
 
+!Python Code Run](python_code_run.gif)
+
 ## Part 2: Scrape and Analyze Mars Weather Data
 
 Open the Jupyter Notebook in the starter code folder named `part_2_mars_weather`.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
