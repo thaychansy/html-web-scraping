@@ -53,6 +53,8 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 
 <img width="942" src="python_code_run_p1.gif" alt="python code part 1" />
 
+<img scr = https://github.com/thaychansy/html-web-scraping-challenge/blob/main/python_code_run_pt1.gif/>
+
 ## Part 2: Scrape and Analyze Mars Weather Data
 
 Open the Jupyter Notebook in the starter code folder named `part_2_mars_weather`.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
@@ -101,6 +103,8 @@ terrestrial_date: the date on Earth
    
 
 <img width="942" src="python_code_run_p2.gif" alt="python code part 2" />
+
+<img scr = https://github.com/thaychansy/html-web-scraping-challenge/blob/main/python_code_run_pt2.gif/>
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
