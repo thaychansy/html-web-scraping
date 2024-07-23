@@ -51,7 +51,7 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 
 - Print the list in your notebook.
 
-<img width="942" src="python_code_run.gif" alt="python code run" />
+<img width="942" src="python_code_run_p1.gif" alt="python code part 1" />
 
 ## Part 2: Scrape and Analyze Mars Weather Data
 
@@ -98,6 +98,9 @@ terrestrial_date: the date on Earth
     - Visually estimate the result by plotting the daily minimum temperature.
 
 6. Export the DataFrame to a CSV file.
+   
+
+<img width="942" src="python_code_run_p2.gif" alt="python code part 2" />
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
