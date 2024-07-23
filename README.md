@@ -51,7 +51,7 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 
 - Print the list in your notebook.
 
-<img width="942" src="python_code_run_p1.gif" alt="python code part 1" />
+<img width="942" src="python_code_run_pt1.gif" alt="python code part 1" />
 
 <img scr = https://github.com/thaychansy/html-web-scraping-challenge/blob/main/python_code_run_pt1.gif/>
 
@@ -102,7 +102,7 @@ terrestrial_date: the date on Earth
 6. Export the DataFrame to a CSV file.
    
 
-<img width="942" src="python_code_run_p2.gif" alt="python code part 2" />
+<img width="942" src="python_code_run_pt2.gif" alt="python code part 2" />
 
 <img scr = https://github.com/thaychansy/html-web-scraping-challenge/blob/main/python_code_run_pt2.gif/>
 
