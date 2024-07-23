@@ -51,7 +51,9 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 
 - Print the list in your notebook.
 
-!Python Code Run](python_code_run.gif)
+<img width="942" scr="https://github.com/thaychansy/html-web-scraping-challenge/blob/main/python_code_run.gif"/>
+
+<img width="942" src="python_code_run.gif" alt="python code run" />
 
 ## Part 2: Scrape and Analyze Mars Weather Data
 
