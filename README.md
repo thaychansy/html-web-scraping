@@ -37,7 +37,7 @@ Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipy
 
 1. Use automated browsing to visit the `Mars news site`. Inspect the page to identify which elements to scrape.
    
-<kbd> <img width="942" alt="image" src="https://github.com/user-attachments/assets/4ebe071a-5b3f-4859-9efa-1c03504f9651"> <\kbd>
+<kbd> <img width="942" alt="image" src="https://github.com/user-attachments/assets/4ebe071a-5b3f-4859-9efa-1c03504f9651"> </kbd>
 
 3. Create a `Beautiful Soup` object and use it to extract text elements from the website.
 
@@ -61,7 +61,7 @@ Open the Jupyter Notebook in the starter code folder named `part_2_mars_weather`
 
 1. Use automated browsing to visit the `Mars Temperature Data Site`. Inspect the page to identify which elements to scrape. Note that the URL is `https://static.bc-edx.com/data/web/mars_facts/temperature.html`.
    
-<kbd> <img width="938" alt="image" src="https://github.com/user-attachments/assets/10122429-b8d4-49fc-a1ef-04c5d1719345"> <\kbd>
+<kbd> <img width="938" alt="image" src="https://github.com/user-attachments/assets/10122429-b8d4-49fc-a1ef-04c5d1719345"> </kbd>
 
 3. Create a Beautiful Soup object and use it to scrape the data in the HTML table. Note that this can also be achieved by using the Pandas `read_html` function. However, use Beautiful Soup here to continue sharpening your web scraping skills.
 
